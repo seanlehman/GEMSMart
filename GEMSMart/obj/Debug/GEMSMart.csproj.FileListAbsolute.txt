@@ -49,7 +49,6 @@ C:\Users\Sean Lehman\Documents\Visual Studio 2015\Projects\GEMSMart\GEMSMart\bin
 C:\Apprenticeship\GEMSMart\GEMSMart\bin\GEMSMart.dll.config
 C:\Apprenticeship\GEMSMart\GEMSMart\bin\GEMSMart.dll
 C:\Apprenticeship\GEMSMart\GEMSMart\bin\GEMSMart.pdb
-C:\Apprenticeship\GEMSMart\GEMSMart\bin\Antlr3.Runtime.dll
 C:\Apprenticeship\GEMSMart\GEMSMart\bin\EntityFramework.dll
 C:\Apprenticeship\GEMSMart\GEMSMart\bin\EntityFramework.SqlServer.dll
 C:\Apprenticeship\GEMSMart\GEMSMart\bin\Microsoft.Web.Infrastructure.dll
@@ -63,7 +62,6 @@ C:\Apprenticeship\GEMSMart\GEMSMart\bin\System.Web.Razor.dll
 C:\Apprenticeship\GEMSMart\GEMSMart\bin\System.Web.WebPages.Deployment.dll
 C:\Apprenticeship\GEMSMart\GEMSMart\bin\System.Web.WebPages.dll
 C:\Apprenticeship\GEMSMart\GEMSMart\bin\System.Web.WebPages.Razor.dll
-C:\Apprenticeship\GEMSMart\GEMSMart\bin\WebGrease.dll
 C:\Apprenticeship\GEMSMart\GEMSMart\bin\EntityFramework.xml
 C:\Apprenticeship\GEMSMart\GEMSMart\bin\EntityFramework.SqlServer.xml
 C:\Apprenticeship\GEMSMart\GEMSMart\bin\PagedList.xml
@@ -75,8 +73,10 @@ C:\Apprenticeship\GEMSMart\GEMSMart\bin\System.Web.Razor.xml
 C:\Apprenticeship\GEMSMart\GEMSMart\bin\System.Web.WebPages.xml
 C:\Apprenticeship\GEMSMart\GEMSMart\bin\System.Web.WebPages.Deployment.xml
 C:\Apprenticeship\GEMSMart\GEMSMart\bin\System.Web.WebPages.Razor.xml
-C:\Apprenticeship\GEMSMart\GEMSMart\bin\Antlr3.Runtime.pdb
 C:\Apprenticeship\GEMSMart\GEMSMart\bin\Newtonsoft.Json.xml
 C:\Apprenticeship\GEMSMart\GEMSMart\obj\Debug\GEMSMart.dll
 C:\Apprenticeship\GEMSMart\GEMSMart\obj\Debug\GEMSMart.pdb
 C:\Apprenticeship\GEMSMart\GEMSMart\obj\Debug\GEMSMart.csprojResolveAssemblyReference.cache
+C:\Apprenticeship\GEMSMart\GEMSMart\bin\Antlr3.Runtime.dll
+C:\Apprenticeship\GEMSMart\GEMSMart\bin\WebGrease.dll
+C:\Apprenticeship\GEMSMart\GEMSMart\bin\Antlr3.Runtime.pdb
